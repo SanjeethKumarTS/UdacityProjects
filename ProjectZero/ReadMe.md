@@ -7,6 +7,5 @@ What will I learn?
 
 You will learn how to open an IPython notebook, run commands in an IPython notebook, and export your work as an HTML document to share. You'll also analyze the design of an experiment and interpret the results.
 Why is this important to my career?
-
-    1. As a Data Analyst, you will analyze data using programming languages (like Python, R and SQL) and other related packages.
-    2. Your day to day work as an analyst involves using a documentation tool to efficiently create, edit, and share data               analyses.
+1. As a Data Analyst, you will analyze data using programming languages (like Python, R and SQL) and other related packages.
+2. Your day to day work as an analyst involves using a documentation tool to efficiently create, edit, and share data               analyses.
